@@ -1,0 +1,8 @@
+{
+  "Product": "ThuleArena.Launcher",
+  "Schema": 1,
+  "Version": "2.0.11",
+  "Size": 76248716,
+  "Sha256": "5AA8ADD296A80D4EFB588E11432DA13EE3719D65E24C900CD448742BFD6D445C",
+  "PayloadUrl": "https://github.com/Mojowjoejoe/thule-arena-launcher/releases/download/launcher-2.0.11/ThuleArena.exe"
+}

@@ -1,0 +1,164 @@
+{
+  "Schema": 1,
+  "Sequence": 2026092001,
+  "Version": "2.0.0-preview1",
+  "ServerHost": "24.21.93.47",
+  "LoginPort": 15998,
+  "ClientSha256": "FFA64C072C0C5E834A982720FD395DDC8974DF26D1597020E1DBEB651B7ED957",
+  "Packs": [
+    {
+      "Id": "classic-models",
+      "Title": "Classic character models",
+      "Description": "Use original character models and elementals where Titanium supports them.",
+      "Required": false,
+      "DefaultSelected": true,
+      "Files": [],
+      "Settings": [
+        {
+          "Key": "UseLuclinHumanMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinHumanFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinBarbarianMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinBarbarianFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinEruditeMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinEruditeFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinWoodElfMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinWoodElfFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinHighElfMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinHighElfFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinDarkElfMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinDarkElfFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinHalfElfMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinHalfElfFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinDwarfMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinDwarfFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinTrollMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinTrollFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinOgreMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinOgreFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinHalflingMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinHalflingFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinGnomeMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinGnomeFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinIksarMale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinIksarFemale",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "UseLuclinElementals",
+          "Value": "FALSE"
+        }
+      ]
+    },
+    {
+      "Id": "windowed",
+      "Title": "Optional: Windowed play",
+      "Description": "Enable windowed mode while preserving your resolution and keybindings.",
+      "Required": false,
+      "DefaultSelected": false,
+      "Files": [],
+      "Settings": [
+        {
+          "Key": "WindowedMode",
+          "Value": "TRUE"
+        }
+      ]
+    },
+    {
+      "Id": "quiet",
+      "Title": "Optional: Quiet startup",
+      "Description": "Disable sound and combat music; set music volume to zero.",
+      "Required": false,
+      "DefaultSelected": false,
+      "Files": [],
+      "Settings": [
+        {
+          "Key": "Sound",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "CombatMusic",
+          "Value": "FALSE"
+        },
+        {
+          "Key": "Music",
+          "Value": "0"
+        }
+      ]
+    }
+  ]
+}
