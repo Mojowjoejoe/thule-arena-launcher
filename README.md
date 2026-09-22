@@ -4,7 +4,7 @@
 
 Extract the complete ZIP, then run StartThuleArena.exe. Keep a shortcut to that file. It checks signed launcher updates on opening and preserves your settings. The game remains invite-only; downloading the launcher does not grant a game account.
 
-This repository contains only signed update metadata. Executable downloads are stored in Releases. No game client, game-server source, database, account data or private signing keys are distributed here.
+This repository contains signed update metadata and a [default keybinding preset](defaults/README.md). Executable downloads are stored in Releases. No game client, game-server source, database, account data or private signing keys are distributed here.
 
 ## Update feeds
 
